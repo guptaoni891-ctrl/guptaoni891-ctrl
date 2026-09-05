@@ -58,3 +58,14 @@ GPU monitoring, alerts, historical metrics and Prometheus support.
 </p>
 
 </div>
+
+<br>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/guptaoni891-ctrl/guptaoni891-ctrl/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  />
+</p>
