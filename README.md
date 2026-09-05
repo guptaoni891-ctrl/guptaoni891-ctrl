@@ -61,6 +61,27 @@ GPU monitoring, alerts, historical metrics and Prometheus support.
 
 <br>
 
+
+
+<br>
+
+<h2 align="center">🧠 Currently</h2>
+
+<pre>
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   > current_status                                   │
+│                                                      │
+│   Building : SystemPulse                             │
+│   Learning : DSA / FastAPI / Git / GitHub            │
+│   Exploring: C++ / CUDA / Game Development           │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+</pre>
+
+
+
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
