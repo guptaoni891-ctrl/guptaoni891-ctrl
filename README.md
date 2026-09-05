@@ -34,3 +34,27 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+<br>
+
+<h2 align="center">🚀 Featured Project</h2>
+
+<div align="center">
+
+<h3>
+  ⚡ <a href="https://github.com/guptaoni891-ctrl/systempulse">SystemPulse</a>
+</h3>
+
+<p>
+Cross-platform system monitoring and observability CLI with hardware telemetry,
+GPU monitoring, alerts, historical metrics and Prometheus support.
+</p>
+
+<p>
+  <code>Python</code>
+  <code>SQLite</code>
+  <code>Prometheus</code>
+  <code>Hardware Monitoring</code>
+</p>
+
+</div>
