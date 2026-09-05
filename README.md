@@ -82,6 +82,31 @@ GPU monitoring, alerts, historical metrics and Prometheus support.
 
 
 
+
+
+<br>
+
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+  <a href="www.linkedin.com/in/anubhav-gupta-cs">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:guptaanubhav10127@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/guptaoni891-ctrl">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+
+
+
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
